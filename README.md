@@ -108,3 +108,5 @@ These are other challenges I solved but didn't complete any documentation for.
 - Zero Star Review
 - Admin Registration
 - Reset Bender's Password
+- Bjoern's Favourite Pet
+- Login Jim
